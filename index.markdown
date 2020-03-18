@@ -5,8 +5,7 @@
 layout: home
 
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/20200308_123711.jpg
+  image: /assets/images/20200308_123711.jpg
 ---
 
 
