@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+# theme                  : "minimal-mistakes-jekyll"
+remote_theme           : "mmistakes/minimal-mistakes@4.19.1"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -20,7 +20,7 @@ title                    : "The Agile Sloth"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Brian McDonnell"
-description              : "An amazing website."
+description              : "The Agile Sloth is making a website"
 url                      : "https://www.theagilesloth.com/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "bmcdonn2/bmcdonn2.github.io"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Brian McDonnell"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Staving off the Dead Flag Blues"
+  bio              : "Staving off [The Dead Flag Blues](https://www.youtube.com/watch?v=XVekJTmtwqM)"
   location         : "Chicago"
   email            :
   links:
