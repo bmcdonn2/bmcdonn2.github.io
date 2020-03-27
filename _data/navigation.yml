@@ -4,8 +4,8 @@ main:
     url: /posts/  
   - title: "Things Cooked"
     url: /recipes/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Recommended"
+    url: /recommended/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
