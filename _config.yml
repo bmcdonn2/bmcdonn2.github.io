@@ -114,9 +114,17 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bmcdonn2"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Goodreads"
+      icon: "fab fa-fw fa-goodreads"
+      url: "https://www.goodreads.com/user/show/65547471-brian-mcdonnell"
+    - label: "Last.fm"
+      icon: "fab fa-fw fa-lastfm-square"
+      url: "https://www.last.fm/user/agilesloth"
+    - label: "Untappd"
+      icon: "fab fa-fw fa-untappd"
+      url: "https://untappd.com/user/Bmcdonn2"           
+
+      
 
 # Site Footer
 footer:

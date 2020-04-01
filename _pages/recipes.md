@@ -18,7 +18,7 @@ Here's a list of stuff I've made.
  Chana Masala            | Entree  | 2019-03-20 | [Serious Eats][chana-masala]
  Sourdough Bread         | Bread   | 2019-03-29 | [Foodwishes][fw-sourdough-bread]
  Peanut Butter Fudge     | Dessert | 2019-03-29 | [Foodwishes][fw-pb-fudge]
- Backed Rice & Beans     | Entree  | 2019-03-31 | [Foodwishes][fw-rice-beans]
+ Baked Rice & Beans     | Entree  | 2019-03-31 | [Foodwishes][fw-rice-beans]
 
 <div class="datatable-end"></div>
 
