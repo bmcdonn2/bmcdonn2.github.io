@@ -9,16 +9,18 @@ Here's a list of stuff I've made.
 
 <div class="datatable-begin"></div>
 
- Recipe                  | Type   | First Made | Source
- ----------------------- | ------ | ---------- | --------------------------------
- Greek Chicken           | Entree  | 2019-03-15 | [Foodwishes][greek-chicken]
- Sourdough Starter       | Bread   | 2019-03-16 | [Foodwishes][sourdough-starter]
- Lebanese Mountain Bread | Bread   | 2019-03-18 | [Foodwishes][mountain-bread]
- Turkish Chicken Kebabs  | Entree  | 2019-03-18 | [Foodwishes][turkish-kebabs]
- Chana Masala            | Entree  | 2019-03-20 | [Serious Eats][chana-masala]
- Sourdough Bread         | Bread   | 2019-03-29 | [Foodwishes][fw-sourdough-bread]
- Peanut Butter Fudge     | Dessert | 2019-03-29 | [Foodwishes][fw-pb-fudge]
- Baked Rice & Beans     | Entree  | 2019-03-31 | [Foodwishes][fw-rice-beans]
+ Recipe                      | Type    | First Made | Source
+ --------------------------- | ------- | ---------- | --------------------------------
+ Greek Chicken               | Entree  | 2019-03-15 | [Foodwishes][greek-chicken]
+ Sourdough Starter           | Bread   | 2019-03-16 | [Foodwishes][sourdough-starter]
+ Lebanese Mountain Bread     | Bread   | 2019-03-18 | [Foodwishes][mountain-bread]
+ Turkish Chicken Kebabs      | Entree  | 2019-03-18 | [Foodwishes][turkish-kebabs]
+ Chana Masala                | Entree  | 2019-03-20 | [Serious Eats][chana-masala]
+ Sourdough Bread             | Bread   | 2019-03-29 | [Foodwishes][fw-sourdough-bread]
+ Peanut Butter Fudge         | Dessert | 2019-03-29 | [Foodwishes][fw-pb-fudge]
+ Baked Rice & Beans          | Entree  | 2019-03-31 | [Foodwishes][fw-rice-beans]
+ Chicken, Lentil, Bacon Stew | Entree  | 2019-04-04 | [Serious Eats][se-chicken-lentil]
+ Sourdough Bread             | Bread   | 2019-04-05 | [Basics w/ Babish][babish-sourdough]
 
 <div class="datatable-end"></div>
 
@@ -30,3 +32,5 @@ Here's a list of stuff I've made.
 [fw-sourdough-bread]: https://foodwishes.blogspot.com/2017/09/sourdough-bread-part-2-finished-loaf.html
 [fw-pb-fudge]: https://foodwishes.blogspot.com/2019/10/grandmas-peanut-butter-fudge-which.html
 [fw-rice-beans]: https://foodwishes.blogspot.com/2020/03/the-best-baked-rice-beans-perfect-rice.html
+[se-chicken-lentil]: https://www.seriouseats.com/recipes/2015/01/quick-and-easy-pressure-cooker-chicken-lentil-bacon-stew-recipe.html
+[babish-sourdough]: https://basicswithbabish.co/basicsepisodes/sourdough-bread
