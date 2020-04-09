@@ -47,8 +47,8 @@ Long live the movement.
 
 Ever since the country's been in lockdown, I felt it inevitable that Bernie would end his campaign. He relied on energy and crowds and organizing and the power of those things is greatly diminished when nobody should leave their house. You can only go so far with social media live-streams.
 
-But while Bernie is no longer in it, I take comfort in the idea that he did _build_ a movement and that that movement is not going anywhere. It isn't going anywhere because the problems it seeks to solve are still there. In this time of pandemic, those problems are becoming even more dire and difficult to ignore.
-
 It's funny, in 2016 I remember thinking that this darn election just needed to be over so I could stop thinking about Trump. I was so certain that if he lost, he and his supporters would disappear. We'll never know what would have happened if he lost but we already know that this time, in 2020, Bernie lost. The one prediction I'll make this go-around is that while Bernie might fade away, there's no way his movement will.
 
 Bernie's slogan was _Not Me, Us_ and that's the perfect encapsulation of the campaign. In the end, he lost, but that's okay because it was never about him. It was always about building a movement that will carry us all forward into a better future. The movement will survive.
+
+It must survive because the problems it seeks to solve are still there. In this time of pandemic, those problems are becoming even more dire and difficult to ignore. This is what I take comfort in, knowing that even with such great problems, there is a force out there that seeks to solve them in a just way for all.
