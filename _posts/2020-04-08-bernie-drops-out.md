@@ -45,7 +45,7 @@ Anyway, back then Bernie wasn't even running but the remnants of his 2016 campai
 
 Long live the movement.
 
-Ever since the country's been in lockdown, I felt it inevitable that Bernie would end his campaign. He relied on energy and crowds and organizing and the power of those things is greatly diminished when nobody should to leave their house. You can only go so far with social media live-streams.
+Ever since the country's been in lockdown, I felt it inevitable that Bernie would end his campaign. He relied on energy and crowds and organizing and the power of those things is greatly diminished when nobody should leave their house. You can only go so far with social media live-streams.
 
 But while Bernie is no longer in it, I take comfort in the idea that he did _build_ a movement and that that movement is not going anywhere. It isn't going anywhere because the problems it seeks to solve are still there. In this time of pandemic, those problems are becoming even more dire and difficult to ignore.
 
