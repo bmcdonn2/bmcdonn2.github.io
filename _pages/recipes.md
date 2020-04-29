@@ -23,6 +23,7 @@ Here's a list of stuff I've made.
  Sourdough Bread             | Bread   | 2020-04-05 | [Basics w/ Babish][babish-sourdough]
  Roasted Broccoli            | Side    | 2020-04-16 | [Serious Eats][se-broccoli]
  Chicken & Chickpea Masala   | Entree  | 2020-04-18 | [Serious Eats][se-chicken-checkpea-masala]
+ Rusty Chicken Thighs        | Entree  | 2020-04-25 | [Foodwishes][fw-rusty]
 
 <div class="datatable-end"></div>
 
@@ -38,3 +39,4 @@ Here's a list of stuff I've made.
 [babish-sourdough]: https://basicswithbabish.co/basicsepisodes/sourdough-bread
 [se-broccoli]: https://www.seriouseats.com/recipes/2017/12/easy-roasted-broccoli-recipe.html
 [se-chicken-checkpea-masala]: https://www.seriouseats.com/recipes/2014/01/quick-easy-pressure-cooker-chicken-and-chickpea-masala.html
+[fw-rusty]: https://foodwishes.blogspot.com/2012/06/rusty-chicken-thighs-whats-in-name.html
